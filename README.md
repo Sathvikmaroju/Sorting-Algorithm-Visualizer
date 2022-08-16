@@ -1,5 +1,5 @@
 # Sorting-Algorithm-Visualizer
 
-Python sorting algorithm visualizer.
+Visualising the sorting mechanism in Python
 
 Coming soon: more sorting visualizers
